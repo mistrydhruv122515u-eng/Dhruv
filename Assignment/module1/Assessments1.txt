@@ -1,0 +1,4 @@
+Question: Which development methodology would you recommend for this project, and why? Identify two specific risks the team would face if they chose the wrong methodology for this context.
+Ans:  My  recommended methodology Is Agile .
+      The project has frequently changing requirements, and Agile allows changes to be incorporated easily during development.
+      The client wants to review working features every two weeks, which matches Agile's sprint-based approach with regular feedback and continuous improvement.
