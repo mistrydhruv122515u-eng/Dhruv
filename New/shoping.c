@@ -10,4 +10,4 @@ int main() {
     scanf("%d", &quentiy);
     printf("\nYour total salary is: %d",price * quentiy);
     return 0;
-}
+}                  

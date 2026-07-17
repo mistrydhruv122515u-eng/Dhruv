@@ -7,3 +7,11 @@ logical operator && || !
 || any condititon can be true
 ! nether condition will true 
 */
+int main(){
+  
+  int age =13;
+  boll isciti
+
+    return 0;
+
+}
