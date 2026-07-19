@@ -15,36 +15,9 @@ float withdraw(float balance, float amount)
     return balance - amount;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 int main()
 {
-    float balance = 1000, amount;
+    float balance = 15000, amount;
 
     printf("Enter deposit amount: ");
     scanf("%f", &amount);
@@ -54,7 +27,7 @@ int main()
     scanf("%f", &amount);
     balance = withdraw(balance, amount);
 
-    printf("Balance = %.f", balance);
+    printf("Balance = %.2f", balance);
 
     return 0;
 }
